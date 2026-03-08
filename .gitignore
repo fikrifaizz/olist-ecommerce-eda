@@ -1,0 +1,25 @@
+# Data
+data/raw/
+data/database/
+data/clean/
+data/tableau/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+venv/
+env/
